@@ -1,2 +1,2 @@
-# cpu-schedular-simulation
-simulating a cpu schedular (project of computer simulation course) 
+# cpu-scheduler-simulation
+simulating a cpu scheduler (project of computer simulation course) 
